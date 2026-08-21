@@ -9,7 +9,7 @@ const offices = [
   { name: "Regional Office", address: "1938 Buckingham Rd\nLos Angeles, CA 90016" },
   {
     name: "Testing Laboratory",
-    address: "3785 Via Nona Marie, Suite 108\nCarmel, CA 93923",
+    address: "13317 W Banff Ln\nSurprise, AZ 85379-6572",
   },
 ];
 
@@ -54,7 +54,7 @@ export function Contact() {
 
       if (error) throw error;
 
-      toast.success("Thank you — our team will respond within one business day.");
+      toast.success("Thank you, our team will respond within one business day.");
       (e.target as HTMLFormElement).reset();
     } catch (err) {
       console.error(err);
@@ -84,10 +84,10 @@ export function Contact() {
               Schedule a Consultation
             </a>
             <a
-              href="tel:+15551234567"
+              href="tel:+14807092134"
               className="inline-flex items-center gap-2 border border-background/50 px-8 py-4 text-[0.72rem] font-bold uppercase tracking-[0.2em] text-background transition-colors hover:bg-background hover:text-charcoal"
             >
-              <Phone className="size-4" /> (555) 123-4567
+              <Phone className="size-4" /> +1 (480) 709-2134
             </a>
             <a
               href="mailto:MDDevelopment2026@gmail.com"

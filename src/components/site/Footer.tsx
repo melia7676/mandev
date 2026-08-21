@@ -57,7 +57,7 @@ export function Footer() {
             <br />
             Surprise, AZ 85379-6572
             <br />
-            (555) 123-4567
+            +1 (480) 709-2134
             <br />
             <a href="mailto:MDDevelopment2026@gmail.com" className="hover:text-charcoal">
               MDDevelopment2026@gmail.com
