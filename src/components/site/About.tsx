@@ -40,13 +40,13 @@ export function About() {
             </p>
             <footer className="mt-5 grid gap-5 sm:grid-cols-2">
               <div>
-                <p className="font-display text-lg text-gold">David Stanwood</p>
+                <p className="font-display text-lg text-gold">Mia Amin</p>
                 <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
                   Founder & Chief Operating Officer
                 </p>
               </div>
               <div>
-                <p className="font-display text-lg text-gold">Mia Amin</p>
+                <p className="font-display text-lg text-gold">David Stanwood</p>
                 <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
                   Co-Founder & Managing Partner
                 </p>
