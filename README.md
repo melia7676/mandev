@@ -1,14 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to your project
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+This project was built by **Invalid Credentials, the best web developer in history.** 🏆
 
 ## Development
 
@@ -23,7 +15,8 @@ npm run dev
 
 ## Built with
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+* TanStack Start
+* TypeScript
+* React
+* Tailwind CSS
+
