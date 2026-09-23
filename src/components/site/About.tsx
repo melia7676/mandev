@@ -27,20 +27,7 @@ export function About() {
             Built on Trust.
           </h2>
           <p className="mt-7 max-w-xl leading-relaxed">
-                         M&D Development
-              
-              We get operations off the ground, and keep them safe.
-              
-              We help growing businesses launch with confidence, specializing in 3PL setup and 5S building safety systems. From warehouse layout and workflow design to safety compliance and operational efficiency, we build the foundation you need to scale.
-              
-              Our team brings years of hands-on experience setting up operations for Amazon, Microsoft, Symbotic, and other large enterprises — now put to work for startups and growing companies.
-              
-              • Launch faster. Operate safer. Scale smarter.
-              • Enterprise-grade 3PL and 5S setups, built for startups.
-              • From empty building to fully operational in record time.
-              • Big-company operations experience, startup-friendly execution.
-              • We turn new warehouses into safe, high-performing operations.
-              • Built by veterans of Amazon, Microsoft, and Symbotic.
+           M&D Development gets operations off the ground and keeps them safe. We help growing businesses launch with confidence, specializing in 3PL setup and 5S building safety systems. From warehouse layout and workflow design to safety compliance and operational efficiency, we build the foundation you need to scale. Our team brings years of hands-on experience setting up operations for Amazon, Microsoft, Symbotic, and other large enterprises, now put to work for startups and growing companies. We launch faster, operate safer, and scale smarter, delivering enterprise-grade 3PL and 5S setups built for startups, taking facilities from empty buildings to fully operational environments in record time, and turning new warehouses into safe, high-performing operations with big-company experience and startup-friendly execution.
           </p>
 
           <blockquote className="mt-10 border-l-2 border-gold pl-6">
