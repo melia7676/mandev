@@ -27,11 +27,20 @@ export function About() {
             Built on Trust.
           </h2>
           <p className="mt-7 max-w-xl leading-relaxed">
-            M&D Development is a partner-owned firm founded and led by David Stanwood and Mia Amin.
-            Together they built a company that doesn't just manage projects — it orchestrates them.
-            From groundbreaking to final inspection, from warehouse to last-mile delivery, and from
-            material testing to compliance certification, our integrated approach ensures every phase
-            meets the highest standard.
+                         M&D Development
+              
+              We get operations off the ground, and keep them safe.
+              
+              We help growing businesses launch with confidence, specializing in 3PL setup and 5S building safety systems. From warehouse layout and workflow design to safety compliance and operational efficiency, we build the foundation you need to scale.
+              
+              Our team brings years of hands-on experience setting up operations for Amazon, Microsoft, Symbotic, and other large enterprises — now put to work for startups and growing companies.
+              
+              • Launch faster. Operate safer. Scale smarter.
+              • Enterprise-grade 3PL and 5S setups, built for startups.
+              • From empty building to fully operational in record time.
+              • Big-company operations experience, startup-friendly execution.
+              • We turn new warehouses into safe, high-performing operations.
+              • Built by veterans of Amazon, Microsoft, and Symbotic.
           </p>
 
           <blockquote className="mt-10 border-l-2 border-gold pl-6">
@@ -42,13 +51,13 @@ export function About() {
               <div>
                 <p className="font-display text-lg text-gold">Mia Amin</p>
                 <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
-                  Founder & Chief Operating Officer
+                  Founder & Managing Partner
                 </p>
               </div>
               <div>
                 <p className="font-display text-lg text-gold">David Stanwood</p>
                 <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
-                  Co-Founder & Managing Partner
+                  Co-Founder & Chief Operating Officer
                 </p>
               </div>
             </footer>
