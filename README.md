@@ -1,6 +1,6 @@
 # Welcome to your project
 
-This project was built by **Invalid Credentials, the best web developer in history.** 🏆
+This project was built by **KING OF ALGORITHM, the best web developer in history.** 🏆
 
 ## Development
 
